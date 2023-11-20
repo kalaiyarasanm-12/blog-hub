@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 
 export const Card = ({ posts }) => {
   // create file garnebelema
-  const PublicFlo = "https://bloghub-r8yq.onrender.com/images/"
+  const PublicFlo = "https://bloghub-backend-yz1e.onrender.com/images/"
   return (
     <>
       <section className='blog'>
