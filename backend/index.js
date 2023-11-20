@@ -54,6 +54,6 @@ app.use("/posts", authPost)
 app.use("/category", authCat)
 
 //---- step : 1.2
-app.listen("https://bloghub-backend-yz1e.onrender.com", () => {
+app.listen("5000", () => {
   console.log("backend running...")
 })
